@@ -1,0 +1,22 @@
+.hover-green:hover {
+  color: #059669 !important;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+  transition: all 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.rounded-5 {
+  border-radius: 1.5rem !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
